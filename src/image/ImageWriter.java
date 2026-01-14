@@ -1,3 +1,5 @@
+package image;
+
 import org.opencv.core.Mat;
 import org.opencv.imgcodecs.Imgcodecs;
 

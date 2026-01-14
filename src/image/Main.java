@@ -1,3 +1,5 @@
+package image;
+
 import org.opencv.core.Core;
 
 import java.io.IOException;
